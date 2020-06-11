@@ -1,0 +1,84 @@
+## Overview and Origin
+
+* Name of company
+	Sensibill
+* When was the company incorporated?
+	2013
+* Who are the founders of the company?
+	Corey Gross/Jamie Alexander
+* How did the idea for the company (or project) come about?
+	" We provide digital banking tools that drive engagement while helping institutions better understand their customers" -Sensibill's mission statement from their website. Their vision was to help banks reach the underserved small business and freelance segments through their receipt management app.	
+* How is the company funded? How much funding have they received?
+	Sensibill has been through six rounds of funding which have totalled aproximetly fifty-five million dollars. The company has been funded through a venture round, two seed rounds, a series B funding ( 31.5 million dollars) and most recently a debt financing which accumalated into five million dollars
+
+## Business Activities:
+
+* What specific financial problem is the company or project trying to solve?
+	The number one problem Sensibill is trying to solve is receipt management.
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+	The company's intended customer is the underserved entrepreneurs/ small business owners but the large mainstream financial institutions such as banks, Sensibill is essentially a liaison between the two. According to BDC.ca entrepreneurship has in creased by eighty percent for people under thirty-five since 2014. Tripled among people over fifty-five since 200. Female entrepreneurs are now growing three times faster than their male counterparts. twenty-eight percent of entrepreners are nowwomen from eleven percent forty years ago. 
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+	According to Austin Han, a machine-learning technical lead at Sensibill, Sensibill is one of the few companies who are doing new things with artificial intelligence. Furthermore, Sensibill has an accomplished staff, EX. Adam Mullen who was named " Best tech manager" at the Timmy's awards. The Timmy award recognizes hard-working proffesionals throughout ten different cities ( Atlanta, Boston, Chicago, Los Angeles, Philedelphia, San Francisco, Silicone Valley, Toronto, Washington DC). 
+	Corey Gross ( CEO and co-founder ) had launched a similiar product prior to Sensibill through which many of the companies' banking connections were established. Jamie Alexander ( co-founder) was with IBM for thriteen years where he served as a tech lead, business analyst, and product manager.
+	Sensibill is also one of the first and few to be prototyped and designed in collaboration with a bank  which gives them a unique business model. 
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+	Machine-learning is a subset of AI which uses computer algorithems to improve functions automatically. Machine learning helps with automation , microsegmentation and many other functions.Through the computer's ability to "learn" Sensibill is able to collect new information and better evaluate their customers.They also use a Tensorflow AI framework rather than a torch AI framework which a sensibill tech lead referred to as a "academic novelty"
+
+## Landscape:
+
+* What domain of the financial industry is the company in?
+	Digital banking and financial infrastructure 
+* What have been the major trends and innovations of this domain over the last 5-10 years?
+	Over the last 5-10 years digital banking has made many innovations. The largest trend we see is the digitixation of banking functions such as e-transfers and paperless banking.
+These functions allow patrons the freedom to not step in a bank without taking away the services. The demographic that is being targeted is also getting allot younger. This younger generation has different needs and desires from their predecessors creating a whole new challenge.
+Smaller companies like Sensibill now have a place to partner with larger companies. These opportunities have will continue to creat niche markets.
+* What are the other major companies in this domain?
+Zafin
+North One
+Fispan
+## Results
+
+* What has been the business impact of this company so far?
+	Sensibill has made a noticeable impact on digital banking and financial infrastructure. Their main service/product, smart receipt management, services around ten million clients. Since 2013 they've raised approx. fifty-five million which relatively speaking is high comparing to other fintech startups.
+In the future this will give other fintechs the opportunities to receive larger fundings. Sensibill initially developed their business collaboratively with a major bank (RBC) which I believe will become more common going forward.
+Sensibill's AI framework will also give other startups the opportunity to build on their code.Advancing machine-learning and other AI functions. Sensibillis opening more opportunities for entrepreneurs to be successful, many self-employed individuals top challenge is keep up with receipts and Sensibill's system helps aleviate the problem.
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+	1. Financial- How much money does the company generate and how much does the company spend
+	2. Customers- How many customers and are the customers satisfied
+	3. Internal processes- The quality of the systems and will the company be able to grow
+
+	Financially-Sensibill is doing well raising around fifty-five million in seven years and six rounds of funding
+	Customers- Sensibill has around ten million clients which is superb espicially for such a young company.They have a 3.5/5 review on glassdoor.ca
+	Internal processes- the company has been successful so far. They recently (5/20/20) receiveda funding of five million dollars. The company is young and with Covid-19 still luming I beleive digital banking will continue to grow.
+	
+## Recommendations
+
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+	I would advise the company to have regular zoom conferences with their clients(monthly or bi-weekly).
+* Why do you think that offering this product or service would benefit the company?
+	I believe that this solution would help because it gives the company a deeper, more personal understanding of what the current state of clients' situation. 
+Further more Covid-19 is still looming and face-to-face interactions have become less popular and less frequent and there is no definitive end to the pandemic. I believe that companies that make an effort to maintain their personality will benefit. This will also help the developers adjust algorithims, the new data will give developers new angles to find solutions.
+The growth rate of new entrepreneurs will present new challenges and regular meetings will help keep the company up to date. It is also a scalable solution, the company has the option of choosing the size, the theme, the guests, etc..
+  
+* What technologies would this additional product or service utilize?
+	A conferencing technology (ex.Zoom)
+	Internet
+	Staff
+* Why are these technologies appropriate for your solution?
+	I believe that this is appropriate because Covid-19 is probably the most relevant problem today's economy and it can not be over looked. The solution I've presented allows for safety while still directly engaging with the consumer
+
+Sources
+
+-https://www.itbusiness.ca/news/sensibill-ushers-in-a-new-era-of-digital-receipts/114187
+-https://www.crunchbase.com/search/funding_rounds/field/organizations/funding_total/sensibill
+-https://www.fintech.ca/receipt-management-startup-sensibill/
+-https://www.bdc.ca/en/about/mediaroom/news_releases/pages/bdc-small-business-week-2019-presents-new-face-of-canadian-entrepreneurship.aspx#:~:text=Entrepreneurial%20activity%20has%20increased%20and,people%20over%2055%20since%202000.
+-https://www.marsdd.com/news/with-ai-at-its-core-sensibill-offers-high-growth-careers/
+-https://getsensibill.com
+-https://timmyawards.techinmotionevents.com/
+-https://ca.linkedin.com/in/
+-https://www.americanbanker.com/list/the-banking-tech-trends-that-will-dominate-2020
+-https://medium.com/swlh/intro-to-kpis-for-fintech-82092070b156
+-https://betakit.com/following-layoffs-sensibill-secures-5-million-in-debt-financing/
+-https://www.globenewswire.com/news-release/2019/07/08/1879488/0/en/Sensibill-raises-31-5-million-to-power-AI-banking-solution-for-freelancers-and-small-business-owners.html#:~:text=About%20Sensibill&text=Founded%20in%202013%20and%20headquartered,10%20million%20customers%20to%20date.
+-https://www.glassdoor.ca/Overview/Working-at-Zafin-EI_IE244962.11,16.htm
